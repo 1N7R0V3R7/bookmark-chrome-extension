@@ -24,7 +24,6 @@ This is a simple chrome extension to store the bookmarks. To use this chrome ext
    
 3. Swtich on Developer Mode and select Load unpacked
    
-    ![image-20220305201636155](/home/rohil/snap/typora/57/.config/Typora/typora-user-images/image-20220305201636155.png)
 
    
    
